@@ -1,0 +1,9 @@
+timestamp,event,process,title,switchNumber
+2026-03-28 21:07:29,START,idea64.exe,AttentionMeter – 2026-02-10.csv [AttentionMeter],0
+2026-03-28 21:07:57,HEARTBEAT,idea64.exe,AttentionMeter – 2026-02-10.csv [AttentionMeter],0
+2026-03-28 21:08:28,SWITCH,idea64.exe,AttentionMeter – AttentionMeterApiApplication.java [AttentionMeter.main],1
+2026-03-28 21:08:36,SWITCH,explorer.exe,Task Switching,2
+2026-03-28 21:08:38,SWITCH,chrome.exe,Новая вкладка - Google Chrome,3
+2026-03-28 21:08:40,SWITCH,idea64.exe,AttentionMeter – AttentionMeterApiApplication.java [AttentionMeter.main],4
+2026-03-28 21:08:48,SWITCH,chrome.exe,CS622_project - AI-Assisted Development Projects - Google Chrome,5
+2026-03-28 21:08:58,SWITCH,explorer.exe,Task Switching,6

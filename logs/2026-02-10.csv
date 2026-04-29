@@ -1,0 +1,51 @@
+timestamp,event,process,title,switchNumber
+2026-02-10 19:22:17,START,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],0
+2026-02-10 19:22:21,SWITCH,chrome.exe,ChatGPT - CS622_project - Google Chrome,1
+2026-02-10 19:22:23,SWITCH,chrome.exe,Новая вкладка - Google Chrome,2
+2026-02-10 19:22:42,SWITCH,chrome.exe,Content / CS622 A1 Advanced Programming Techniques (Spring 26) - Google Chrome,3
+2026-02-10 19:22:46,HEARTBEAT,chrome.exe,Content / CS622 A1 Advanced Programming Techniques (Spring 26) - Google Chrome,3
+2026-02-10 19:22:50,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],4
+2026-02-10 19:23:00,SWITCH,chrome.exe,ChatGPT - CS622_project - Google Chrome,5
+2026-02-10 19:23:04,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],6
+2026-02-10 19:23:16,HEARTBEAT,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],6
+2026-02-10 19:23:24,SWITCH,chrome.exe,ChatGPT - CS622_project - Google Chrome,7
+2026-02-10 19:23:34,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],8
+2026-02-10 19:28:20,START,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],0
+2026-02-10 19:28:24,SWITCH,chrome.exe,ChatGPT - CS622_project - Google Chrome,1
+2026-02-10 19:28:26,SWITCH,chrome.exe,File - Google Chrome,2
+2026-02-10 19:28:28,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],3
+2026-02-10 19:28:38,SWITCH,chrome.exe,ChatGPT - CS622_project - Google Chrome,4
+2026-02-10 19:28:48,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],5
+2026-02-10 19:29:14,SWITCH,chrome.exe,ChatGPT - CS622_project - Google Chrome,6
+2026-02-10 19:29:16,SWITCH,chrome.exe,File - Google Chrome,7
+2026-02-10 19:29:18,SWITCH,chrome.exe,Новая вкладка - Google Chrome,8
+2026-02-10 19:29:20,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],9
+2026-02-10 19:29:26,SWITCH,chrome.exe,File - Google Chrome,10
+2026-02-10 19:29:28,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],11
+2026-02-10 19:29:48,HEARTBEAT,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],11
+2026-02-10 19:53:05,START,chrome.exe,CS622_project - AI-Assisted Development Projects - Google Chrome,0
+2026-02-10 19:53:09,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],1
+2026-02-10 19:53:27,SWITCH,chrome.exe,File - Google Chrome,2
+2026-02-10 19:53:29,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],3
+2026-02-10 19:53:33,HEARTBEAT,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],3
+2026-02-10 19:53:41,SWITCH,chrome.exe,File - Google Chrome,4
+2026-02-10 19:53:43,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],5
+2026-02-10 19:53:49,SWITCH,explorer.exe,Task Switching,6
+2026-02-10 19:53:51,SWITCH,chrome.exe,CS622_project - AI-Assisted Development Projects - Google Chrome,7
+2026-02-10 19:53:55,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],8
+2026-02-10 19:54:17,START,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],0
+2026-02-10 19:54:21,SWITCH,chrome.exe,CS622_project - AI-Assisted Development Projects - Google Chrome,1
+2026-02-10 19:54:27,SWITCH,chrome.exe,Новая вкладка - Google Chrome,2
+2026-02-10 19:54:31,SWITCH,chrome.exe,localhost - Google Chrome,3
+2026-02-10 19:54:35,SWITCH,chrome.exe,CS622_project - AI-Assisted Development Projects - Google Chrome,4
+2026-02-10 19:54:39,SWITCH,chrome.exe,localhost - Google Chrome,5
+2026-02-10 19:54:43,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],6
+2026-02-10 19:54:45,HEARTBEAT,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],6
+2026-02-10 19:54:47,SWITCH,chrome.exe,CS622_project - AI-Assisted Development Projects - Google Chrome,7
+2026-02-10 19:54:59,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],8
+2026-02-10 19:55:05,START,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],0
+2026-02-10 19:55:09,SWITCH,chrome.exe,localhost - Google Chrome,9
+2026-02-10 19:55:09,SWITCH,chrome.exe,localhost - Google Chrome,1
+2026-02-10 19:55:13,SWITCH,explorer.exe,Task Switching,10
+2026-02-10 19:55:13,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],2
+2026-02-10 19:55:15,SWITCH,idea64.exe,AttentionMeter – Main.java [AttentionMeter.main],11
